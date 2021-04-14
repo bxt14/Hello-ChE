@@ -1,4 +1,5 @@
 # Hello-ChE
-This repository is a place to store ideas for myself!
 
-I'm just starting to learn to use Github and hope to write some cool code!
+I'm not likely to upload any useful code.
+
+But if you like, you can give me STAR!
